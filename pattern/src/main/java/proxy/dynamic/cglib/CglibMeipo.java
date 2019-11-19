@@ -52,7 +52,7 @@ public class CglibMeipo implements MethodInterceptor {
     @Override
     public Object intercept(Object o, Method method, Object[] objects, MethodProxy methodProxy) throws Throwable {
         before();
-        Object object = methodProxy.invoke(o, objects);
+        Object object = methodProxy.invokeSuper(o, objects);
         after();
         return object;
     }
