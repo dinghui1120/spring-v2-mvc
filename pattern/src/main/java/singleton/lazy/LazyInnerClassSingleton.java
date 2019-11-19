@@ -14,7 +14,6 @@ public class LazyInnerClassSingleton {
     public static final LazyInnerClassSingleton getInstance() {
         return LazyHolder.instance;
     }
-
     //没使用内部类是不会加载的
     private static class LazyHolder{
         private static final LazyInnerClassSingleton instance = new LazyInnerClassSingleton();
