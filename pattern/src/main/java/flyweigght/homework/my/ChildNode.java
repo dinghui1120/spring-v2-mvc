@@ -1,4 +1,4 @@
-package flyweigght.hw;
+package flyweigght.homework.my;
 
 public class ChildNode extends Node {
     public ChildNode(String name) {

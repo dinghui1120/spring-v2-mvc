@@ -1,4 +1,4 @@
-package flyweigght.hw;
+package flyweigght.homework.my;
 
 import java.util.ArrayList;
 import java.util.List;

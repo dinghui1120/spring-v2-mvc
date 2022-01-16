@@ -1,4 +1,4 @@
-package flyweigght;
+package flyweigght.homework.share;
 
 public class TreeLeaf extends Tree {
 

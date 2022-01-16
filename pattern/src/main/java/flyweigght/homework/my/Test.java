@@ -1,4 +1,4 @@
-package flyweigght.hw;
+package flyweigght.homework.my;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package flyweigght;
+package flyweigght.homework.share;
 
 public abstract class Tree {
 

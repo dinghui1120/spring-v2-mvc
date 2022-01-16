@@ -1,4 +1,4 @@
-package flyweigght.hw;
+package flyweigght.homework.my;
 
 public abstract class Node {
     protected String name;
